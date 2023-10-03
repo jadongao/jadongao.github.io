@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jadon Blog</title>
+    <link>https://jadon.ai/post/</link>
+    <description>Recent content in Posts on Jadon Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Oct 2023 20:51:02 +0800</lastBuildDate><atom:link href="https://jadon.ai/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://jadon.ai/post/first/</link>
+      <pubDate>Tue, 03 Oct 2023 20:51:02 +0800</pubDate>
+      
+      <guid>https://jadon.ai/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome to Jadon Blog</title>
+      <link>https://jadon.ai/2017/11/03/hello-world/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jadon.ai/2017/11/03/hello-world/</guid>
+      <description> “Yeah It&amp;rsquo;s on. ”
+Hello World! </description>
+    </item>
+    
+  </channel>
+</rss>
