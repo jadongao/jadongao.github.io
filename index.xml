@@ -38,5 +38,14 @@ Imagine you have a friend who’s extremely talented at music, and he challenges
 There’s just one issue, you know nothing about music. But, luckily for you, there’s one tool that can save you from losing this challenge: the Fourier Transform (letters).</description>
     </item>
     
+    <item>
+      <title>篮球投篮识别及计分系统</title>
+      <link>https://jadongao.github.io/post/108220-basketball/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jadongao.github.io/post/108220-basketball/</guid>
+      <description>“” 篮球投篮识别及计分系统 摘要： 篮球爱好者日常训练需要用到投篮命中率统计工具，但当前都只能自己手工记录，非常不方便。本项目一款可以运行在手机</description>
+    </item>
+    
   </channel>
 </rss>
