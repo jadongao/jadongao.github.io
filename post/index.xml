@@ -6,24 +6,36 @@
     <description>Recent content in Posts on Jadon Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Oct 2023 20:51:02 +0800</lastBuildDate><atom:link href="https://jadon.ai/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jadon.ai/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>https://jadon.ai/post/first/</link>
-      <pubDate>Tue, 03 Oct 2023 20:51:02 +0800</pubDate>
+      <title>Welcome to Jadon Blog</title>
+      <link>https://jadon.ai/post/2017-11-03-hello-world/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jadon.ai/post/first/</guid>
-      <description></description>
+      <guid>https://jadon.ai/post/2017-11-03-hello-world/</guid>
+      <description> “Yeah It&amp;rsquo;s on. ”
+Hello World! </description>
     </item>
     
     <item>
-      <title>Welcome to Jadon Blog</title>
-      <link>https://jadon.ai/2017/11/03/hello-world/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <title>The Story of Nothing</title>
+      <link>https://jadon.ai/post/2023-07-02-the-story-of-nothing/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jadon.ai/2017/11/03/hello-world/</guid>
-      <description> “Yeah It&amp;rsquo;s on. ”
-Hello World! </description>
+      <guid>https://jadon.ai/post/2023-07-02-the-story-of-nothing/</guid>
+      <description>“Yeah It&amp;rsquo;s on. ”
+##What makes up nothing? What makes up the empty space outside of the Earth, above the atmosphere, and fills most of the universe? For centuries, this problem has been puzzling physicists, confronting them to develop more and more satisfying theories to describe reality. After all, how do we define the intangible space we live in after we take out all the air, the furniture, the people, and anything we usually call mass?</description>
+    </item>
+    
+    <item>
+      <title>The Fourier Transform</title>
+      <link>https://jadon.ai/post/2023-06-24-the-fourier-transform/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jadon.ai/post/2023-06-24-the-fourier-transform/</guid>
+      <description>“”
+Imagine you have a friend who’s extremely talented at music, and he challenges you to the following: you are given a musical chord, which is basically a few notes played at the same time, like this: (chord). And all you need to do is find out what the individual notes are, in this case it’s the following: (music).
+There’s just one issue, you know nothing about music. But, luckily for you, there’s one tool that can save you from losing this challenge: the Fourier Transform (letters).</description>
     </item>
     
   </channel>
